@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "description": "JavaScript, Databases, User Interface , User Interfaces, Accessibility, MCP, CCNA (training)",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Program Manager",
+    "description": "Business Transformation, Project Management Professional- training.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Consultant",
+    "description": "ERP Implementation, Documentation. Deploying software on cloud platforms .",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
