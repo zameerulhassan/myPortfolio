@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>www.example.com/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.example.com/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>www.example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>www.example.com/profile/</loc>
+  </url>
+  
+  <url>
+    <loc>www.example.com/project/</loc>
+  </url>
+  
+  <url>
+    <loc>www.example.com/404/</loc>
+  </url>
+  
+  <url>
+    <loc>www.example.com/tags/</loc>
+  </url>
+  
+</urlset>
