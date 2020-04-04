@@ -19,9 +19,8 @@ intro_image_hide_on_mobile: false
 
 1. [NCOHA](http://www.ncoha.com)
 
-
-2. [Portfolio](https://zameerulhassan.github.io/)
-3. Business Processes Optimization
-4. User Interfaces, Accessibility, & UAT
-5. Partner Certification Audit for Compliance- Cisco
-6. DATABASE, Oracle SQL, MS Access
+2) [Portfolio](https://zameerulhassan.github.io/myPortfolio/)
+3) Business Processes Optimization
+4) User Interfaces, Accessibility, & UAT
+5) Partner Certification Audit for Compliance- Cisco
+6) DATABASE, Oracle SQL, MS Access
