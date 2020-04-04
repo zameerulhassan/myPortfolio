@@ -1,0 +1,23 @@
+{
+  "name": "myPortfolio",
+  "version": "1.0.0",
+  "description": "my static portfolio on Hugo.. dated 3 April 2020",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gp-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zameerulhassan/myPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zameerulhassan/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/zameerulhassan/myPortfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
