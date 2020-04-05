@@ -17,7 +17,7 @@ intro_image_hide_on_mobile: false
 
 # PROJECTS (Development)
 
-1. [NCOHA](http://www.ncoha.com)
+1. [NCOHA](#)
 
 2) [Portfolio](https://zameerulhassan.github.io/myPortfolio/)
 3) Business Processes Optimization
