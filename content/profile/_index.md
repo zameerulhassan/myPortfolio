@@ -6,6 +6,11 @@ intro_image_hide_on_mobile: true
 ---
 # EXPERIENCE
 
+------------------------------------------
+* [SIMPLY DELIVERY](https://www.simply.delivery/)  
+
+* __Web Developer__
+* (July 2020 – present) 
 * [Beacon Systems Company ](https://www.bs-ict.com/en/) 
 
 * __COO__
@@ -63,7 +68,6 @@ intro_image_hide_on_mobile: true
 
 * Certificate in Management Information Systems
 * M.A., B.Sc.
-* Canadian Graduation Equivalence of IQAS / WES
 
 
   ------------------------------------------
