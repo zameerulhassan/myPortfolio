@@ -17,8 +17,7 @@ intro_image_hide_on_mobile: false
 
 # PROJECTS (Development)
 
-1. [NCOHA](https://lethbridgecollege.ca/)
-
+1) [NCOHA](https://www.ncoha.com/externalEclipse.php)
 2) [Portfolio](https://zameerulhassan.github.io/myPortfolio/)
 3) Business Processes Optimization
 4) User Interfaces, Accessibility, & UAT
